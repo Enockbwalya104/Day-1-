@@ -3,7 +3,6 @@
 int main() {
     float celsius, fahrenheit;
 
-
     printf("  250 ");
     scanf("%f", &celsius);
 
@@ -17,5 +16,6 @@ int main() {
     printf("250.0%.1f\n", celsius);
 
     return 0;
+
 }
 
